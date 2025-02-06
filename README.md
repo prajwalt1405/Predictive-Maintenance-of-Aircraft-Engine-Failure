@@ -51,8 +51,6 @@ Traditional maintenance strategies like **run-to-failure** or **fixed-schedule m
 # Install dependencies:
 pip install pandas numpy tensorflow scikit-learn matplotlib seaborn
 
-# Run the preprocessing and model training script:
-python train_model.py
 ```
 
 ## Implementation Steps
